@@ -2,3 +2,4 @@ Biodata:-
 Name: G.V.Charan.
 college:IIITS.
 village:lrpalle.
+district: kadapa.
